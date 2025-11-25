@@ -1,0 +1,2 @@
+# My-portfolio-eng
+This is my portfolio. Here you can see my projects, specially created for example. (The projects are not used by anyone, but they still have copyright and are not distributed.)
